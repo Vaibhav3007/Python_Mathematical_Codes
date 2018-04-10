@@ -1,0 +1,14 @@
+perfect number 
+6 = 1+2+3
+28 = 1+2+4+7+14
+496 = 1+2+4+8+16+31+62+24+248
+# number is sum of its factors
+
+
+Strong number
+145 = 1!+4!+5!
+
+Amicable pair
+(220,284) = (divisors of 220 = 1,2,4,5,10,11,20,22,44,55,110  Sum = 284) (divisors of 284 = 1,4,71,142   Sum = 220)
+(1184,1210)
+
